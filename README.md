@@ -10,16 +10,16 @@ RestAssured, nada mais é do que uma biblioteca em Java para testar e validar AP
 
 - [Características](#características)
 - [Dependências](#depedências)
-- -  [Principais](#principais)
-- - [Auxiliares](#auxiliares)
+    -  [Principais](#principais)
+    - [Auxiliares](#auxiliares)
 - [Given - Then - When](#given---when---then)
 - [Primeiro Teste](#primeiro-teste)
 - [Testes Dinâmicos](#testes-dinâmicos-massa-de-dados)
-- - [Objetos](#utilizando-objetos)
-- - [Faker](#faker-dados-dinâmicos)
+    - [Objetos](#utilizando-objetos)
+    - [Faker](#faker-dados-dinâmicos)
 - [Validações e Asserções](#validações-e-asserções)
-- - [Hamcrest](#hamcrest)
-- - [JUnit 5](#junit5)
+    - [Hamcrest](#hamcrest)
+    - [JUnit 5](#junit5)
 
 ## Características
 - Utiliza sintaxe baseada em Gherkin, utilizando palavras chaves que tornam scripts mais legíveis e compreensíveis.
